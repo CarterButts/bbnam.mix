@@ -105,3 +105,8 @@ Butts, C. T. (2014). Baseline mixture models for social networks. arXiv:1710.740
 Lee, F., and Butts, C. T. (2020).  On the validity of perceived social structure.  *Journal of Mathematical Psychology,* forthcoming.
 
 Lee, F., and Butts, C. T. (2018). Mutual assent or unilateral nomination? A performance comparison of intersection and union rules for integrating self-reports of social relationships.  *Social Networks,* 55, 55–62.
+
+### Other
+
+This work was supported by NSF award SES-1826589.
+
